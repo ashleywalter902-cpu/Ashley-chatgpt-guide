@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ashleywalter902-cpu.github.io/Ashley-chatgpt-guide/sitemap.xml
